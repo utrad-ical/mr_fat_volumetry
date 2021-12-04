@@ -1,4 +1,4 @@
-# CIRCUS CS Plug-in Samples
+# MR-Fat-Volumetry (CIRCUS CS Plug-in)
 
 This repository contains source codes of Extract visceral fat (VAT) / subcutaneous fat (SAT) region in whole body Dixon MR (CIRCUS CS plug-ins).
 
