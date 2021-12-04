@@ -1,0 +1,18 @@
+{
+  "pluginName": "MR-Fat-Volumetry",
+  "version": "1.0.0-beta",
+  "description": "Extract visceral fat (VAT) / subcutaneous fat (SAT) region in whole body Dixon MR",
+  "icon": {
+    "glyph": "abdomen",
+    "color": "#ffff00",
+    "backgroundColor": "#008800"
+  },
+  "displayStrategy": [
+    {
+      "feedbackKey": "fatVolumetry",
+      "caption": "Fat Volumetry",
+      "type": "FatVolumetry",
+      "options": {}
+    }
+  ]
+}

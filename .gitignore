@@ -1,0 +1,10 @@
+# for python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# for PyTorch model
+*.pth
+
+# for Docker image
+*.tar
