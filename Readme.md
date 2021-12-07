@@ -9,7 +9,7 @@ This repository does not contain a file of the segmentation model (model_random_
 ## Build and Install a Plug-in
 
     $ cd mr_fat_volumetry
-    $ docker build -t circus/dummy-mr_fat_volumetry:1.0.0-beta .
+    $ docker build -t circus/mr_fat_volumetry:<version> .
 
     $ cd /path/to/circus-api
     $ node circus register-cad-plugin <full-image-id>
